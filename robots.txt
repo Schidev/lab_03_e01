@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /page_01.html
-Disallow: /contacts.html
+Disallow: /page_02.html
