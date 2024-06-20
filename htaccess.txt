@@ -1,4 +1,4 @@
-<Files "contact.html">
+<Files "page_02.html">
     Order Allow,Deny
     Deny from all
 </Files>
